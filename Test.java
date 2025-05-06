@@ -6,4 +6,6 @@ public class Test {
 	@Value("com.mat.name")
 	String name;
 	String age;
+	//added by developer
+	String t;
 }
