@@ -8,4 +8,6 @@ public class Test {
 	String age;
 	//added by developer
 	String t;
+	//added by newly
+	String test01;
 }
